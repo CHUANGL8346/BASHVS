@@ -1,2 +1,2 @@
 # BASHVS
-BASHVS is a heterogeneous image fusion method. It will be released after the review process.
+BASHVS is a heterogeneous remote sensing imagery fusion method.
