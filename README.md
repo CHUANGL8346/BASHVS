@@ -8,6 +8,7 @@ Run the SAD_SHVS.m to fuse multispectral and SAR images. SAR images are selected
 
 # Citation
 We kindly request that you cite our paper should you utilize this code in your research.
+
 @ARTICLE{11080465,
 author={Gong, Xunqiang and Luo, Yichuang and Chen, Wenbo and Chang, Yonglei and Wan, Yuting and Ma, Ailong and Zhong, Yanfei},
 journal={IEEE Transactions on Geoscience and Remote Sensing},
